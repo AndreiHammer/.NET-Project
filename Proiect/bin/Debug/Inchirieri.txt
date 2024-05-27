@@ -1,0 +1,10 @@
+ID inchiriere: 1
+Nume client: XXXXXXXX, Adresa: YYYYYYYY, Telefon: 0700000000
+Casete de filme inchiriate:
+Titlu: Inception, Gen: Sci-Fi, An lansare: 2010, Pret: 15 lei
+Titlu: The Dark Knight, Gen: Actiune, An lansare: 2008, Pret: 13,5 lei
+Titlu: The Matrix, Gen: Sci-Fi, An lansare: 1999, Pret: 13 lei
+Titlu: Gladiator, Gen: Actiune, An lansare: 2000, Pret: 12,5 lei
+Titlu: Fight Club, Gen: Drama, An lansare: 1999, Pret: 11,5 lei
+Total de plata:65,5 lei
+

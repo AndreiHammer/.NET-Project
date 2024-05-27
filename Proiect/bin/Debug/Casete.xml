@@ -1,0 +1,68 @@
+<lista>
+    <film id="fm101">
+        <titlu>Fast and Furious 5</titlu>
+        <gen>Actiune</gen>
+        <anLansare>2010</anLansare>
+        <pret>14,5</pret>
+    </film>
+    <film id="fm102">
+        <titlu>The Shawshank Redemption</titlu>
+        <gen>Drama</gen>
+        <anLansare>1994</anLansare>
+        <pret>12,0</pret>
+    </film>
+    <film id="fm103">
+        <titlu>Inception</titlu>
+        <gen>Sci-Fi</gen>
+        <anLansare>2010</anLansare>
+        <pret>15,0</pret>
+    </film>
+    <film id="fm104">
+        <titlu>The Dark Knight</titlu>
+        <gen>Actiune</gen>
+        <anLansare>2008</anLansare>
+        <pret>13,5</pret>
+    </film>
+    <film id="fm105">
+        <titlu>Pulp Fiction</titlu>
+        <gen>Crima</gen>
+        <anLansare>1994</anLansare>
+        <pret>11,0</pret>
+    </film>
+    <film id="fm106">
+        <titlu>Forrest Gump</titlu>
+        <gen>Drama</gen>
+        <anLansare>1994</anLansare>
+        <pret>10,0</pret>
+    </film>
+    <film id="fm107">
+        <titlu>The Matrix</titlu>
+        <gen>Sci-Fi</gen>
+        <anLansare>1999</anLansare>
+        <pret>13,0</pret>
+    </film>
+    <film id="fm108">
+        <titlu>Gladiator</titlu>
+        <gen>Actiune</gen>
+        <anLansare>2000</anLansare>
+        <pret>12,5</pret>
+    </film>
+    <film id="fm109">
+        <titlu>Fight Club</titlu>
+        <gen>Drama</gen>
+        <anLansare>1999</anLansare>
+        <pret>11,5</pret>
+    </film>
+    <film id="fm110">
+        <titlu>Avatar</titlu>
+        <gen>Sci-Fi</gen>
+        <anLansare>2009</anLansare>
+        <pret>14,0</pret>
+    </film>
+    <film id="fm111">
+        <titlu>The Godfather</titlu>
+        <gen>Crima</gen>
+        <anLansare>1972</anLansare>
+        <pret>10,5</pret>
+    </film>
+</lista>
